@@ -7,6 +7,8 @@ In traditional economics, impact of pricing on a product is measured by its pric
 Firms need to have as much information as possible about how consumers will respond to price changes. For example, costs may rise as a result of an unforeseen change in import prices, or through a change in the exchange rate, and firms need to make a judgment about whether to raise (or lower) price.
 
 #Pricing as a Science
+Product price elasticity depicts the relationship between volume of the product and its price. Lets start with a basic price elasticity model. We will use the following dataset for the analysis. The dataset is a timeseries data spanning two years for multiple products for one retail chain. Generally a time horizon of 2-3 years is ideal so that one does not overfit the data on older trade patterns. 
+
   #Product price elasticity
   #Halo and Cannibalization science
   #Overall volume impact estimation
